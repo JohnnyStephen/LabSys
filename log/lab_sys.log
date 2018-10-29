@@ -1,0 +1,24 @@
+
+2018-10-28 16:35:02,750 [WARNING]: user[admin] login failed for wrong username or password
+2018-10-28 16:35:02,752 [WARNING]: Forbidden: /login/
+2018-10-28 16:55:04,425 [INFO]: user[admin] login success
+2018-10-28 17:06:02,119 [INFO]: user[admin] login success
+2018-10-28 17:06:30,430 [INFO]: user[admin] login success
+2018-10-28 17:10:42,526 [INFO]: user[admin] login success
+2018-10-28 17:13:51,820 [INFO]: user[admin] login success
+2018-10-28 17:14:03,948 [INFO]: user[admin] login success
+2018-10-28 17:27:17,523 [INFO]: user[admin] login success
+2018-10-28 23:10:58,740 [INFO]: user[admin] login success
+2018-10-28 23:15:12,792 [ERROR]: user login occur exception: 'username'
+2018-10-28 23:15:12,794 [WARNING]: Bad Request: /logout/
+2018-10-28 23:18:52,529 [INFO]: user[admin] login success
+2018-10-28 23:19:00,492 [ERROR]: user login occur exception: 'username'
+2018-10-28 23:19:00,495 [WARNING]: Bad Request: /account/logout/
+2018-10-28 23:20:19,701 [ERROR]: user login occur exception: 'username'
+2018-10-28 23:20:19,703 [WARNING]: Bad Request: /account/logout/
+2018-10-28 23:21:27,225 [ERROR]: user login occur exception: 'username'
+2018-10-28 23:21:27,228 [WARNING]: Bad Request: /account/logout/
+2018-10-28 23:22:01,546 [ERROR]: user login occur exception: 'username'
+2018-10-28 23:23:19,431 [INFO]: user[admin] login success
+2018-10-28 23:23:29,380 [INFO]: user[AnonymousUser] logout success
+2018-10-28 23:24:40,293 [WARNING]: Unauthorized: /auth/menus/
