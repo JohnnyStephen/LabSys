@@ -19,7 +19,7 @@ from django.urls import path, include
 from root.token import TokenView
 urlpatterns = [
     path('get_token/', TokenView.as_view()),
-    path('account/', include('user_register.urls')),
+    path('', include('user_register.urls')),
     path('auth/', include('auth.urls')),
     path('admin/', admin.site.urls),
 ]
